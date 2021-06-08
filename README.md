@@ -8,6 +8,8 @@ Features:
 4. Place an order
 5. Database connection
 
+# The website pages
+
 ## Login
 
 <img src="readme_images/login.png" width=900>
