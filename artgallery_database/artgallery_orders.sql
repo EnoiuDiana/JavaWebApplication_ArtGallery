@@ -1,0 +1,17 @@
+INSERT INTO artgallery.orders (OrderID, ArtID, CustomerID, OrderStatus) VALUES (61, 11, 1, 'ordered');
+INSERT INTO artgallery.orders (OrderID, ArtID, CustomerID, OrderStatus) VALUES (62, 15, 1, 'ordered');
+INSERT INTO artgallery.orders (OrderID, ArtID, CustomerID, OrderStatus) VALUES (63, 26, 1, 'ordered');
+INSERT INTO artgallery.orders (OrderID, ArtID, CustomerID, OrderStatus) VALUES (64, 31, 1, 'ordered');
+INSERT INTO artgallery.orders (OrderID, ArtID, CustomerID, OrderStatus) VALUES (68, 16, 28, 'ordered');
+INSERT INTO artgallery.orders (OrderID, ArtID, CustomerID, OrderStatus) VALUES (69, 17, 28, 'ordered');
+INSERT INTO artgallery.orders (OrderID, ArtID, CustomerID, OrderStatus) VALUES (70, 27, 28, 'ordered');
+INSERT INTO artgallery.orders (OrderID, ArtID, CustomerID, OrderStatus) VALUES (71, 29, 28, 'ordered');
+INSERT INTO artgallery.orders (OrderID, ArtID, CustomerID, OrderStatus) VALUES (75, 11, 27, 'ordered');
+INSERT INTO artgallery.orders (OrderID, ArtID, CustomerID, OrderStatus) VALUES (76, 10, 27, 'ordered');
+INSERT INTO artgallery.orders (OrderID, ArtID, CustomerID, OrderStatus) VALUES (77, 25, 27, 'ordered');
+INSERT INTO artgallery.orders (OrderID, ArtID, CustomerID, OrderStatus) VALUES (78, 28, 27, 'ordered');
+INSERT INTO artgallery.orders (OrderID, ArtID, CustomerID, OrderStatus) VALUES (79, 29, 27, 'ordered');
+INSERT INTO artgallery.orders (OrderID, ArtID, CustomerID, OrderStatus) VALUES (81, 16, 30, 'ordered');
+INSERT INTO artgallery.orders (OrderID, ArtID, CustomerID, OrderStatus) VALUES (82, 8, 30, 'ordered');
+INSERT INTO artgallery.orders (OrderID, ArtID, CustomerID, OrderStatus) VALUES (83, 24, 30, 'ordered');
+INSERT INTO artgallery.orders (OrderID, ArtID, CustomerID, OrderStatus) VALUES (84, 30, 30, 'ordered');

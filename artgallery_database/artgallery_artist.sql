@@ -1,0 +1,9 @@
+INSERT INTO artgallery.artist (ArtistID, Name) VALUES (1, 'Robert Smith');
+INSERT INTO artgallery.artist (ArtistID, Name) VALUES (2, 'Rose Simpson');
+INSERT INTO artgallery.artist (ArtistID, Name) VALUES (3, 'Beatrice Stearns');
+INSERT INTO artgallery.artist (ArtistID, Name) VALUES (4, 'David Anderson');
+INSERT INTO artgallery.artist (ArtistID, Name) VALUES (5, 'Ellen Muller');
+INSERT INTO artgallery.artist (ArtistID, Name) VALUES (6, 'Sandra Christian');
+INSERT INTO artgallery.artist (ArtistID, Name) VALUES (7, 'Anthony Kinney');
+INSERT INTO artgallery.artist (ArtistID, Name) VALUES (8, 'Cecile Lawrence');
+INSERT INTO artgallery.artist (ArtistID, Name) VALUES (9, 'Tyrone McCarter');

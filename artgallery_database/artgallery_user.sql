@@ -1,0 +1,5 @@
+INSERT INTO artgallery.user (UserID, username, firstname, lastname, email, phone, password) VALUES (1, 'daniel', 'Daniel', 'Smith', 'daniel@yahoo.com', '5551565178', 'pass');
+INSERT INTO artgallery.user (UserID, username, firstname, lastname, email, phone, password) VALUES (4, 'admin', 'admin', 'admin', 'admin@gmail.com', '5251651475', 'pass');
+INSERT INTO artgallery.user (UserID, username, firstname, lastname, email, phone, password) VALUES (27, 'eu', 'eu', 'eu', 'yahoo@yahoo.com', '0123456789', 'pass');
+INSERT INTO artgallery.user (UserID, username, firstname, lastname, email, phone, password) VALUES (28, 'MaraAndr', 'Mara', 'Anderson', 'mara_andr@yahoo.com', '4556123789', 'pass123');
+INSERT INTO artgallery.user (UserID, username, firstname, lastname, email, phone, password) VALUES (30, 'Daniel', 'Daniel', 'Smith', 'daniel_smith@gmail.com', '4756893125', 'pass');

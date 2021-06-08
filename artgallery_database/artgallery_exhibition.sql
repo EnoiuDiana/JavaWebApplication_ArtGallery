@@ -1,0 +1,3 @@
+INSERT INTO artgallery.exhibition (ExhibitionID, GalleryID, Date, ArtistID, Name) VALUES (1, 1, '5-15 January 2021', 2, 'The Advent of The Artist');
+INSERT INTO artgallery.exhibition (ExhibitionID, GalleryID, Date, ArtistID, Name) VALUES (2, 2, '7-14 February 2021', 1, 'Speech/Acts');
+INSERT INTO artgallery.exhibition (ExhibitionID, GalleryID, Date, ArtistID, Name) VALUES (3, 3, '16-24 March 2021', 6, 'R.I.S.E.: Nothing is Natural');
